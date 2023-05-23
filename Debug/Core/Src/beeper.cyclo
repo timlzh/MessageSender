@@ -1,0 +1,2 @@
+beeper.c:3:6:beep_setFreq	1
+beeper.c:21:6:beep_off	1

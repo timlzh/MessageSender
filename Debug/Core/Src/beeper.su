@@ -1,0 +1,2 @@
+../Core/Src/beeper.c:3:6:beep_setFreq	32	static
+../Core/Src/beeper.c:21:6:beep_off	8	static
