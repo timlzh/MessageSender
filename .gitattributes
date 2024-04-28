@@ -1,0 +1,11 @@
+Core/** linguist-vendored
+Debug/** linguist-vendored
+Drivers/** linguist-vendored
+
+Core/Inc/main.h -linguist-vendored
+Core/Inc/beeper.h -linguist-vendored
+Core/Inc/matrix_keypad.h -linguist-vendored
+
+Core/Src/main.c -linguist-vendored
+Core/Src/beeper.c -linguist-vendored
+Core/Src/matrix_keypad.c -linguist-vendored
